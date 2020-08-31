@@ -1,0 +1,13 @@
+//CRUD APP 
+
+I am using following steps to perform crud app in ci
+
+1. Download and extract ci frmework folder in  htdocs..
+2. cofigure CI using config.php =>( base url)->enter the link of address bar: localhost/foldername/....
+  	database.php => (database details) -> database name......
+	autoload.php =>( libraries =>session, database, form_validation etc..    and helper [url ])
+3.create database table with deatils...
+4.create controller user.php in controller folder...
+5. create views for.. list.php  edit.php and create.php
+6. cretae model called user model un models folder...for database operation all done through it
+
